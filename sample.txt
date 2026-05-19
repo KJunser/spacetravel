@@ -1,0 +1,2 @@
+원숭이도 이해할 수 있는 Git 명령어
+developer 1에서 git add 파일명(sample.txt)을 스테이징 에리어에 등록하기
